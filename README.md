@@ -3,7 +3,7 @@ This repository contains machine translation models based on seq2seq architectur
 
 ## English to Spanish Translation ##
 
-The English to Spanish translation model is a relatively large model with ~23 million parameters. It achieves an accuracy of 97 percent on the test data. The model is based on a seq2seq architecture and uses an attention mechanism to focus on relevant parts of the input sentence.
+The English to Spanish translation model is a relatively large model with ~23 million parameters. It achieves an accuracy of 95 percent on the test data. The model is based on a seq2seq architecture and uses an attention mechanism to focus on relevant parts of the input sentence.
 
 To use the English to Spanish translation model, follow these steps:
 
