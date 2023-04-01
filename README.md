@@ -26,12 +26,12 @@ Both models can be run on Google Colaboratory, a free online platform for runnin
 1. Upload the notebooks and files to your Google Drive.
 2. Open Google Colaboratory and create a new notebook.
 3. Mount your Google Drive to the notebook using the following code:
-```
+```javascript
 from google.colab import drive
 drive.mount('/content/drive')
 ```
 4. Navigate to the folder where you uploaded the notebooks and files using the following code:
-```
+```shell
 %cd /content/drive/MyDrive/your-folder-name
 ```
 5. Run the code in the notebook.
